@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm CoderManivardhan</h1>
 <h3 align="center">A passionate Python Datascience</h3>
 
+<img align="right" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
+
 - 🔭 I’m currently working on **Python with Data Science**
 
 - 🌱 I’m currently learning **Advance Analytical Skills**
